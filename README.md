@@ -21,8 +21,7 @@
 **![HTML Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)**
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
 **![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)**
-**![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
+**![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)**
 
 
 ### 📊 Stats:
