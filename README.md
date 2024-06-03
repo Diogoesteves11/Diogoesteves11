@@ -15,11 +15,12 @@
 - 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
 - 📫 How to reach me: **[diogojfe@outlook.com](mailto:diogojfe@outlook.com)**.
 
-### 🛠️ Languages and Tools:
+# 🛠️ Languages and Tools:
 **![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)**
 **![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)**
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)**
+**![SQL Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)**
 
 
 ### 📊 Stats:
