@@ -21,6 +21,8 @@
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)**
 **![SQL Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)**
+**![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)**
+
 
 
 ### 📊 Stats:
