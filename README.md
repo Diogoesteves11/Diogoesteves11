@@ -17,16 +17,14 @@
 
 # 🛠️ Languages and Tools:
 **![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)**
+**![C++ Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)**
+**![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)**
 **![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)**
 **![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)**
 **![SQL Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)**
 **![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)**
 
-
-
 ### 📊 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diogoesteves11&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogoesteves11&show_icons=true&theme=radical&bg_color=00000000" width="35%"/>
-
- 
