@@ -26,6 +26,8 @@
 **![SQL Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)**
 **![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)**
 **![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)**
+**![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)**
+
 
 ### 📊 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diogoesteves11&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
