@@ -16,7 +16,6 @@
 - 📫 How to reach me: **[diogojfe@outlook.com](mailto:diogojfe@outlook.com)**.
 
 # 🛠️ Languages and Tools:
-**![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)**
 **![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)**
 **![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)**
 **![C++ Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)**
