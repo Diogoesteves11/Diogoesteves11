@@ -28,7 +28,3 @@
 **![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)**
 **![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)**
 
-
-### 📊 Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Diogoesteves11&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogoesteves11&show_icons=true&theme=radical&bg_color=00000000" width="35%"/>
